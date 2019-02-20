@@ -57,7 +57,7 @@
     "page_comments": "0",
     "page_for_posts": "0",
     "page_on_front": "0",
-    "permalink_structure": "\/index.php\/%year%\/%monthnum%\/%day%\/%postname%\/",
+    "permalink_structure": "\/%year%\/%monthnum%\/%day%\/%postname%\/",
     "ping_sites": "http:\/\/rpc.pingomatic.com\/",
     "posts_per_page": "10",
     "posts_per_rss": "10",
