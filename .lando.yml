@@ -1,0 +1,4 @@
+name: wp-cfm-demo
+recipe: wordpress
+config:
+  webroot: web
